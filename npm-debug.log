@@ -1,0 +1,26 @@
+info it worked if it ends with ok
+verbose cli [ 'node', '/usr/bin/npm', 'install', '--dev' ]
+info using npm@1.1.16
+info using node@v0.8.9
+verbose config file /home/malachai/.npmrc
+verbose config file /usr/local/etc/npmrc
+verbose config file /usr/lib/nodejs/npm/npmrc
+verbose caching /home/malachai/dev/projects/brain/package.json
+verbose loadDefaults brain@0.6.1
+verbose readDependencies: using package.json deps
+verbose where, deps [ '/home/malachai/dev/projects/brain',
+verbose where, deps   [ 'underscore', 'mocha', 'canvas', 'cradle', 'should', 'async' ] ]
+verbose from cache /home/malachai/dev/projects/brain/package.json
+info preinstall brain@0.6.1
+verbose caching /home/malachai/dev/projects/brain/node_modules/cradle/package.json
+verbose caching /home/malachai/dev/projects/brain/node_modules/underscore/package.json
+verbose caching /home/malachai/dev/projects/brain/node_modules/async/package.json
+verbose caching /home/malachai/dev/projects/brain/node_modules/should/package.json
+verbose from cache /home/malachai/dev/projects/brain/package.json
+verbose readDependencies: using package.json deps
+verbose from cache /home/malachai/dev/projects/brain/node_modules/cradle/package.json
+verbose from cache /home/malachai/dev/projects/brain/node_modules/underscore/package.json
+verbose from cache /home/malachai/dev/projects/brain/node_modules/async/package.json
+verbose from cache /home/malachai/dev/projects/brain/node_modules/should/package.json
+verbose already installed in /home/malachai/dev/projects/brain skipping underscore@>=1.3.3
+verbose cache add [ 'mocha@>=1.0.0', null ]
